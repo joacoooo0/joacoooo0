@@ -1,7 +1,7 @@
 ## ¡Hola, bienvenido! <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYzk0ODBlYWRlYjliZGEwNDNhZDc3YTY1NzEyMzAyYmMxOTBkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LmrjyYSZE60bHpn2Bg/giphy.gif"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYzk0ODBlYWRlYjliZGEwNDNhZDc3YTY1NzEyMzAyYmMxOTBkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LmrjyYSZE60bHpn2Bg/giphy.gif" width="36" alt="CodeSkills-gif"/></a>&nbsp;
 
 <p>
-  Hola, mi nombre es Joaquin, tengo 20 años y soy <b>Desarrollador Frontend</b> con +1 año de experiencia.<br/>
+  Hola, mi nombre es Joaquin, tengo 21 años y soy <b>Desarrollador Frontend</b> con +2 año de experiencia.<br/>
   Especializado en desarrollar soluciones únicas a partir de mis conocimientos y nuevos aprendizajes.
 </p>
 <a href = "mailto:joaco0mr4@gmail.com "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
